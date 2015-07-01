@@ -6,7 +6,7 @@
   <artifactId>finder</artifactId>
   <packaging>jar</packaging>
   <version>1.0-SNAPSHOT</version>
-  <name>finder</name>
+  <name>filefinder</name>
   <url>https://github.com/tissya/FFG.git</url>
   <inceptionYear>2015</inceptionYear>
 
