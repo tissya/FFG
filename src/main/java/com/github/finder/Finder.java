@@ -86,7 +86,7 @@ public class Finder {
                         return true;
                     }
                 }
-            }
+            } catch(Exception e){}
         }
         return false;
     }
