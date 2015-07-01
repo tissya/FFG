@@ -1,5 +1,7 @@
 package com.github.finder;
 
+import org.kohsuke.args4j.CmdLineParser;
+
 public class Main{
     public Main(String[] arguments){
         Args args = parseArguments(arguments);
